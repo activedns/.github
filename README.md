@@ -1,4 +1,4 @@
-# About
+# .github
 
 ActiveDNS is a free DNS search engine.
 
